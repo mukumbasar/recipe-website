@@ -6,3 +6,9 @@
 ![recipeWebsiteUpdateForm](https://github.com/mukumbasar/recipe-website/assets/93601245/0adaaeb2-e209-4714-9f3e-8f0dd05109ce)
 ![recipeWebsiteProfile](https://github.com/mukumbasar/recipe-website/assets/93601245/47db1e4a-61b9-454d-b7c9-373f98d4de7d)
 ![recipeWebsiteAbout](https://github.com/mukumbasar/recipe-website/assets/93601245/41dbdb3c-0253-426b-98d6-82c092b5b8e8)
+
+## Installation Steps:
+- Use npm create vite@latest and then choose React and JavaScript.
+- Install Axios by running npm install axios.
+- Install React Router DOM with npm install react-router-dom.
+- Install Context API by executing npm install context-api.
