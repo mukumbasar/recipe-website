@@ -1,0 +1,24 @@
+.about-page-container {
+    background-color: #c2e995;
+    min-height: calc(100vh - 150px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  
+  .content {
+    margin-top: 20px;
+    max-width: 550px;
+    text-align: left; 
+  }
+  
+  .content p {
+    margin: 10px 0; 
+    font-size: 20px;
+  }
+  

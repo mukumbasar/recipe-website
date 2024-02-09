@@ -1,0 +1,88 @@
+.recipe-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 40%;
+    margin: 2rem auto;
+    border: 1px solid #666666;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #9dce65;
+    color: #444444;
+}
+
+.recipe-form textarea {
+    font-family: inherit; 
+}
+
+.recipe-form input,
+.recipe-form textarea {
+    margin-top: 15px;
+    align-self: center;
+    width: 90%;
+    font-size: 1.25rem;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #666666;
+    background-color: #c2e995;
+    border-radius: 5px;
+}
+
+.recipe-form textarea {
+    height: 80px; 
+    resize: none; 
+}
+
+.recipe-form .button-container {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    align-self: center;
+}
+
+.recipe-form button {
+    flex: 1;
+    font-size: 1.25rem;
+    background-color: #c2e995;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.recipe-form button:hover {
+    background-color: #90ad6e;
+}
+
+.toggleButton {
+    font-size: 24px;
+    padding: 8px;
+    display: block;
+    margin: 25px auto; 
+    background-color: #c2e995;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.toggleButton:hover {
+    background-color: #90ad6e;
+}
+
+.modal-container {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.modal-container.show {
+    display: flex;
+}
