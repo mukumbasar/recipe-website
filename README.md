@@ -23,4 +23,4 @@ A React and Node.js application serves as a learning exercise to develop profici
 - Install Axios by running npm install axios.
 - Install React Router DOM with npm install react-router-dom.
 - Install Context API by executing npm install context-api.
-- Install JSON Server by running npm install json-server for backend simulation during development.
+- Install JSON Server by running npm install json-server for backend simulation.
