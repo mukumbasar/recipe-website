@@ -1,5 +1,5 @@
 # Recipe Website
-A React and Node.js application serves as a learning exercise to develop proficiency in both technologies, showcasing fundamental profile-based website features such as CRUD operations, login functionality and secure routing.
+A React and Node.js application which serves as a learning exercise to develop proficiency in both technologies, showcasing fundamental profile-based website features such as CRUD operations, login functionality and secure routing.
 
 ## Tools:
 - Node.js
