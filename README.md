@@ -7,9 +7,9 @@ A React and Node.js application serves as a learning exercise to develop profici
   - Context API
   - React Router DOM
   - Axios
+- JSON Server
 - CSS
-- Font Awesome
-- 
+  
 ## Screenshots:
 ![recipeWebsiteLogin](https://github.com/mukumbasar/recipe-website/assets/93601245/d950dbca-7886-4602-bb50-6a87771407e1)
 ![recipeWebsiteHome](https://github.com/mukumbasar/recipe-website/assets/93601245/3eeb7cf3-3579-4db7-b2f4-9ea7f5686eca)
@@ -23,3 +23,4 @@ A React and Node.js application serves as a learning exercise to develop profici
 - Install Axios by running npm install axios.
 - Install React Router DOM with npm install react-router-dom.
 - Install Context API by executing npm install context-api.
+- Install JSON Server by running npm install json-server for backend simulation during development.
