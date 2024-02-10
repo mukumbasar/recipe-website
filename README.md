@@ -1,5 +1,16 @@
 # Recipe Website
+A React and Node.js application serves as a learning exercise to develop proficiency in both technologies, showcasing fundamental profile-based website features such as CRUD operations, login functionality and secure routing.
 
+## Tools:
+- Node.js
+- React
+  - Context API
+  - React Router DOM
+  - Axios
+- CSS
+- Font Awesome
+- 
+## Screenshots:
 ![recipeWebsiteLogin](https://github.com/mukumbasar/recipe-website/assets/93601245/d950dbca-7886-4602-bb50-6a87771407e1)
 ![recipeWebsiteHome](https://github.com/mukumbasar/recipe-website/assets/93601245/3eeb7cf3-3579-4db7-b2f4-9ea7f5686eca)
 ![recipeWebsiteAddForm](https://github.com/mukumbasar/recipe-website/assets/93601245/14d70b6e-0d22-4289-99b2-bf74fbc77a9d)
