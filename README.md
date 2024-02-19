@@ -1,5 +1,12 @@
 # Recipe Website
 A React and Node.js application which served as a learning exercise to develop proficiency in both technologies, showcasing fundamental profile-based website features such as personal CRUD operations, login functionality and secure routing.
+2
+2
+2
+2
+2
+2
+j
 
 ## Tools:
 - Node.js
